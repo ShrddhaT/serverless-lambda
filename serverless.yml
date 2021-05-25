@@ -1,0 +1,8 @@
+service: serverless-lamda
+provider:
+  name: aws
+  runtime: nodejs12.x
+ 
+functions:
+  hello:
+    handler: src/handler.generateRandomNumber
