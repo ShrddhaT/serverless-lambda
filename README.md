@@ -1,1 +1,1 @@
-# serverless-lamda
+# serverless-lambda
